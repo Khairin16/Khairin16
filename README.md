@@ -72,13 +72,17 @@ and working toward becoming a Full-Stack Developer.
 
 ---
 
-## 🔥 GitHub Contribution Streak
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Khairin16&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khairin16)
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1438534145868304437)
 
 </div>
+
 
 ---
 
