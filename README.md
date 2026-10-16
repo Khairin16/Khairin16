@@ -8,7 +8,7 @@
 Building responsive websites, learning new technologies,
 and working toward becoming a Full-Stack Developer.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Khairin16-181717?style=for-the-badge&logo=github)](https://github.com/Khairin16)
+[![GitHub](https://img.shields.io/badge/GitHub-Khairin-181717?style=for-the-badge&logo=github)](https://github.com/Khairin16)
 
 
 </div>
